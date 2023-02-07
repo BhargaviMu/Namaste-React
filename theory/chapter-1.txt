@@ -1,0 +1,24 @@
+Q1. What is Emmet?
+Ans. Emmet is a free add-on or plug-in for text editor like visual studio code. 
+    It allows to type shortcuts that are then expanded into full pieces of code.
+
+Q2. Difference between a Library and Framework?
+Ans. 
+
+Q3. What is CDN? Why do we use it?
+Ans. 
+
+Q4. Why is React known as React?
+Ans. 
+
+Q5. What is crossorigin in script tag?
+Ans. 
+
+Q6. What is diference between React and ReactDOM?
+Ans.
+
+Q7. What is difference between react.development.js and react.production.js files via CDN?
+Ans.
+
+Q8. What is async and defer? - see my Youtube video https://www.youtube.com/watch?v=IrHmpdORLu8)
+Ans. 
